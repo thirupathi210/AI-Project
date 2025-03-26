@@ -1,0 +1,44 @@
+.navbar-collapse{
+   margin-left: 40rem;
+}
+.carousel-inner{
+   width: 100%;
+   height: 85vh;
+}
+.hero-section {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   padding: 50px;
+}
+.hero-text {
+   max-width: 500px;
+}
+.hero-text h1 {
+   font-size: 3rem;
+   font-weight: bold;
+}
+.hero-text span {
+   color: orange;
+}
+.hero-buttons button, .hero-buttons .watch-video {
+   margin-top: 20px;
+   padding: 10px 20px;
+   border: none;
+   background-color: orange;
+   color: black;
+   font-weight: bold;
+   cursor: pointer;
+   border-radius: 5px;
+}
+.hero-buttons .watch-video {
+   background: none;
+   color: white;
+   display: flex;
+   align-items: center;
+   gap: 10px;
+}
+.hero-image img {
+   max-width: 400px;
+   border-radius: 10px;
+}

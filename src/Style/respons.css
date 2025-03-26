@@ -1,0 +1,5 @@
+@media (max-width: 768px) {
+    .navbar-collapse {
+       margin-left: 0rem; /* Adjusted for smaller screens */
+    }
+ }
